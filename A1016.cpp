@@ -3,7 +3,7 @@
 #include<cstring>
 #include<algorithm>
 using namespace std;
-struct '''record'''
+struct record
 {
 	char name[21];
 	int mon, day, hour, min;
