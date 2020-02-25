@@ -1,2 +1,2 @@
 # PAT-only
-xjbx
+PAT甲级考试准备专用。
